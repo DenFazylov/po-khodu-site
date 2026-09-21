@@ -1,2 +1,2 @@
-:HL["/po-khodu-site/_next/static/chunks/0sgl9zks5oq-s.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_0ISK2Mej62tBKfaKbQr_"}
+:HL["/po-khodu-site/_next/static/chunks/08rxlh1e5_nxh.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7tq9ea-h9Fj65UmbkKbGs"}
