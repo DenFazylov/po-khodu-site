@@ -1,0 +1,2 @@
+:HL["/po-khodu-site/testing/v1.8.0/_next/static/chunks/0jcw3dbm5lkks.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"2d1JIXjiPUfS9ztnL1hRm"}

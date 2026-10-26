@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[89894,["/po-khodu-site/testing/v1.8.0/_next/static/chunks/00sri2o3wu-jv.js","/po-khodu-site/testing/v1.8.0/_next/static/chunks/0j8x9nzwehoi_.js","/po-khodu-site/testing/v1.8.0/_next/static/chunks/0ey04~yubdt.o.js","/po-khodu-site/testing/v1.8.0/_next/static/chunks/17y7ulk29zc9y.js","/po-khodu-site/testing/v1.8.0/_next/static/chunks/0-3j1r6xnkybk.js","/po-khodu-site/testing/v1.8.0/_next/static/chunks/0di5uhxo9emaq.js"],"AuthShell"]
+3:I[79875,["/po-khodu-site/testing/v1.8.0/_next/static/chunks/00sri2o3wu-jv.js","/po-khodu-site/testing/v1.8.0/_next/static/chunks/0j8x9nzwehoi_.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/po-khodu-site/testing/v1.8.0/_next/static/chunks/0ey04~yubdt.o.js","async":true}],["$","script","script-1",{"src":"/po-khodu-site/testing/v1.8.0/_next/static/chunks/17y7ulk29zc9y.js","async":true}],["$","script","script-2",{"src":"/po-khodu-site/testing/v1.8.0/_next/static/chunks/0-3j1r6xnkybk.js","async":true}],["$","script","script-3",{"src":"/po-khodu-site/testing/v1.8.0/_next/static/chunks/0di5uhxo9emaq.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2d1JIXjiPUfS9ztnL1hRm"}
+5:null
