@@ -1,3 +1,3 @@
 :HL["/po-khodu-site/_next/static/chunks/13wordpj1ofl5.css","style"]
 :HL["/po-khodu-site/_next/static/chunks/0a1ktzjaurfpy.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Gt_MbZTtH7LeLMluYFPSP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"2koq1xhs4zlIMS4UwvzvV"}
