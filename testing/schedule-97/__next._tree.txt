@@ -1,0 +1,3 @@
+:HL["/po-khodu-site/testing/schedule-97/_next/static/chunks/02xb~vppnfa8m.css","style"]
+:HL["/po-khodu-site/testing/schedule-97/_next/static/chunks/0p5bdp77at26t.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"mT5AieoEQMd4c5FkGfqxF"}
