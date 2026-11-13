@@ -1,0 +1,1 @@
+.daily-summary-times,.daily-summary-preview{gap:8px;display:grid}.daily-summary-time{grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:8px;display:grid}.daily-summary-preview p{white-space:pre-line;margin:6px 0 0}
