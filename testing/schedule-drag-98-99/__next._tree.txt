@@ -1,3 +1,3 @@
 :HL["/po-khodu-site/testing/schedule-drag-98-99/_next/static/chunks/02xb~vppnfa8m.css","style"]
-:HL["/po-khodu-site/testing/schedule-drag-98-99/_next/static/chunks/0-5jtschxxa3z.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"al0QqE67R0PtRMTCqN8YZ"}
+:HL["/po-khodu-site/testing/schedule-drag-98-99/_next/static/chunks/14.bmn-iqt3t1.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"rmnDGH8UQkhwEvYruvbmz"}
